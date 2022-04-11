@@ -22,6 +22,6 @@ class Name:
 
 window=Tk()
 myname=Name(window)
-window.title('TEMPERATURE UNIT CONVERTION')
+window.title('Midterm in OOP')
 window.geometry("550x300+10+10")
 window.mainloop()
